@@ -1,0 +1,24 @@
+{
+  "Mac" : [
+    {
+      "name" : "SwiftySound",
+      "hash" : "50e86e68d1b291267e102177b3e897939ff0deb1c9548d5d95f6a736548279ad"
+    }
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+    {
+      "name" : "SwiftySound",
+      "hash" : "89dbaa5e66ba32aa37a20749d21aa78f44c455521bf6b9e29d69d54e26c8d8eb"
+    }
+  ],
+  "commitish" : "1.0.0",
+  "iOS" : [
+    {
+      "name" : "SwiftySound",
+      "hash" : "370fa255e78541aa68cd8fa1a1074f398e88ddb1d86a7add7ebb744dca753c48"
+    }
+  ]
+}
